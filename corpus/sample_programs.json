@@ -1,0 +1,83 @@
+{
+  "note": "SYNTHETIC. These programs and their details are invented to exercise the retriever. They are not real colleges and carry no real recruiting intelligence. The production corpus is private and is not included.",
+  "programs": [
+    {
+      "slug": "northgate-university",
+      "label": "Northgate University",
+      "division": "men",
+      "conference": "Atlantic Coastal",
+      "sections": {
+        "overview": "Northgate University plays a direct, vertical game and leads the conference in goals from transition. The staff recruit athletic wide players first and build the rest of the roster around them. Training is short and high tempo.",
+        "formation": "Northgate University sets up in a 4-3-3 with a single holding midfielder and two advanced eights. In possession the fullbacks push high and the wingers stay wide to isolate the opposing fullback one against one.",
+        "press": "Northgate presses with a mid block and triggers on a backward pass. The front three press the ball side centre back, and the holding midfielder screens the central lane. They drop into a 4-4-2 shape out of possession.",
+        "recruiting": "Northgate recruiting looks for pace in the wide areas and a striker who can hold the ball with their back to goal. The staff run two identification camps in the summer and value players from a high tempo club environment.",
+        "positions": "Northgate needs a left winger comfortable attacking the end line, and a holding midfielder who can receive under pressure and switch play. Goalkeeper distribution is a stated priority in this cycle."
+      }
+    },
+    {
+      "slug": "ashford-college",
+      "label": "Ashford College",
+      "division": "women",
+      "conference": "Valley League",
+      "sections": {
+        "overview": "Ashford College is a possession side that builds from the goalkeeper and refuses to play long. They concede few chances and win games by controlling territory rather than by scoring in volume.",
+        "formation": "Ashford lines up in a 3-4-3 with wide centre backs who carry the ball into midfield. The two central midfielders rotate constantly, and the front three press as a unit before dropping into shape.",
+        "press": "Ashford presses high with a man oriented scheme and a goalkeeper who plays as a sweeper. Their counter press lasts six seconds. If it fails they retreat into a compact 5-4-1 and make the opposition play around them.",
+        "recruiting": "Ashford recruiting prioritises technical players who are comfortable receiving with their back to pressure and who can execute a possession game without turning the ball over. Academic profile matters as much as the soccer profile here.",
+        "positions": "Ashford is looking for a central midfielder who can dictate tempo, and a wide centre back with the pace to defend in space. They also want a striker who presses rather than one who only finishes."
+      }
+    },
+    {
+      "slug": "brambleton-state",
+      "label": "Brambleton State",
+      "division": "men",
+      "conference": "Northern Ridge",
+      "sections": {
+        "overview": "Brambleton State is a set piece and second ball team. They score a third of their goals from restarts and are content to defend deep, win the first contact, and attack the space that opens up after the clearance.",
+        "formation": "Brambleton State plays a 4-4-2 with two holding central midfielders and a target striker. The wingers tuck narrow out of possession, and the back four defends the eighteen yard box rather than the halfway line.",
+        "press": "Brambleton does not press high. They sit in a compact 4-4-2 block, invite pressure, and look to win the ball in their own half. Their defensive shape is the most disciplined in the conference.",
+        "recruiting": "Brambleton recruiting targets physically strong players who win duels, plus a left sided defender with a long throw. The staff place heavy weight on character and on a player who has come through a demanding club environment.",
+        "positions": "Brambleton needs a centre back who wins aerial duels, a target forward who can hold and link, and a set piece specialist. Their priority is a defensive midfielder with a range of passing."
+      }
+    },
+    {
+      "slug": "cedar-hollow-college",
+      "label": "Cedar Hollow College",
+      "division": "women",
+      "conference": "Atlantic Coastal",
+      "sections": {
+        "overview": "Cedar Hollow College plays an aggressive high press and scores most of their goals inside twenty seconds of winning the ball. Their games are chaotic by design and they are comfortable trading chances.",
+        "formation": "Cedar Hollow uses a 4-2-3-1 with a false nine who drops into midfield. The two holding players cover enormous ground, and the fullbacks are effectively wingers when the team has the ball.",
+        "press": "Cedar Hollow presses man for man across the whole pitch, including the goalkeeper. The trigger is any pass to a fullback. Their shape after a failed press is a 4-4-2 and the wingers sprint to recover.",
+        "recruiting": "Cedar Hollow recruiting looks for relentless runners with elite work rate and speed over ten yards. The staff accept technical roughness in exchange for intensity and are direct that minutes go to the fittest players.",
+        "positions": "Cedar Hollow wants a false nine who can combine in tight spaces, an athletic right back, and a defensive midfielder who covers ground. The head coach has said the squad needs more goal threat from wide areas."
+      }
+    },
+    {
+      "slug": "dunmoor-university",
+      "label": "Dunmoor University",
+      "division": "men",
+      "conference": "Northern Ridge",
+      "sections": {
+        "overview": "Dunmoor University is a counter attacking team that defends in a low block and breaks at speed. They have the fastest transition attack in the conference and the least possession on average.",
+        "formation": "Dunmoor sets up in a 5-3-2 with wingbacks who sprint the length of the pitch. The two strikers split wide on the counter, and the central defender in the middle of the back three steps into midfield to start attacks.",
+        "press": "Dunmoor drops into a 5-3-2 low block and presses only in the final third of their own half. Their priority is to protect the central corridor and force play wide, where the wingback traps the ball against the touchline.",
+        "recruiting": "Dunmoor recruiting looks for pace above almost everything else, plus defenders who are comfortable defending one against one in wide areas. They recruit heavily from junior college transfers to fill immediate gaps.",
+        "positions": "Dunmoor needs a wingback with genuine recovery pace, a striker who can run in behind, and a centre back comfortable stepping into midfield with the ball. Their stated gap is a left sided wingback."
+      }
+    },
+    {
+      "slug": "elmstead-institute",
+      "label": "Elmstead Institute",
+      "division": "women",
+      "conference": "Valley League",
+      "sections": {
+        "overview": "Elmstead Institute is a patient build up team with the highest pass completion in the conference and the lowest number of shots. They win narrowly and are organised around not conceding.",
+        "formation": "Elmstead plays a 4-3-3 with an inverted triangle in midfield and a single pivot. The goalkeeper is heavily involved in build up and the centre backs split almost to the touchline when the team plays out.",
+        "press": "Elmstead presses in a mid block and looks to funnel the opposition into wide areas. They rarely press the goalkeeper and prefer to stay compact, and their reaction to losing the ball is to fall back into shape rather than counter press.",
+        "recruiting": "Elmstead recruiting values decision making and ball retention, and the staff will take a slower player with excellent positioning over a fast player who gives the ball away. They recruit nationally and run a single identification camp.",
+        "positions": "Elmstead is looking for a left footed centre back who can start the build up, a pivot who never loses the ball under pressure, and a striker who links play. Depth in central midfield is the stated need."
+      }
+    }
+  ]
+}

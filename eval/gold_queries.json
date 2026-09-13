@@ -1,0 +1,34 @@
+{
+  "note": "Questions the system must answer, paired with the program and section that should come back. Written against the synthetic corpus. Every query has a known right answer, which is what makes the score meaningful: a retrieval number you cannot check is decoration.",
+  "queries": [
+    {"q": "What formation does Northgate University play?", "expect": "northgate-university", "sections": ["formation"]},
+    {"q": "How does Northgate University press?", "expect": "northgate-university", "sections": ["press"]},
+    {"q": "What does Northgate University look for in recruiting?", "expect": "northgate-university", "sections": ["recruiting"]},
+    {"q": "Which positions does Northgate University need?", "expect": "northgate-university", "sections": ["positions"]},
+
+    {"q": "What formation does Ashford College use?", "expect": "ashford-college", "sections": ["formation"]},
+    {"q": "How does Ashford College press?", "expect": "ashford-college", "sections": ["press"]},
+    {"q": "What does Ashford College value in recruiting?", "expect": "ashford-college", "sections": ["recruiting"]},
+    {"q": "Which positions does Ashford College need?", "expect": "ashford-college", "sections": ["positions"]},
+
+    {"q": "What formation does Brambleton State play?", "expect": "brambleton-state", "sections": ["formation"]},
+    {"q": "Does Brambleton State press high?", "expect": "brambleton-state", "sections": ["press"]},
+    {"q": "What does Brambleton State look for in recruiting?", "expect": "brambleton-state", "sections": ["recruiting"]},
+    {"q": "Which positions does Brambleton State need?", "expect": "brambleton-state", "sections": ["positions"]},
+
+    {"q": "What formation does Cedar Hollow College play?", "expect": "cedar-hollow-college", "sections": ["formation"]},
+    {"q": "How does the Cedar Hollow College press work?", "expect": "cedar-hollow-college", "sections": ["press"]},
+    {"q": "What does Cedar Hollow College look for in recruiting?", "expect": "cedar-hollow-college", "sections": ["recruiting"]},
+    {"q": "Which positions does Cedar Hollow College need?", "expect": "cedar-hollow-college", "sections": ["positions"]},
+
+    {"q": "What formation does Dunmoor University play?", "expect": "dunmoor-university", "sections": ["formation"]},
+    {"q": "How does the Dunmoor University low block work?", "expect": "dunmoor-university", "sections": ["press", "overview"]},
+    {"q": "What does Dunmoor University look for in recruiting?", "expect": "dunmoor-university", "sections": ["recruiting"]},
+    {"q": "Which positions does Dunmoor University need?", "expect": "dunmoor-university", "sections": ["positions"]},
+
+    {"q": "What formation does Elmstead Institute play?", "expect": "elmstead-institute", "sections": ["formation"]},
+    {"q": "How does Elmstead Institute press?", "expect": "elmstead-institute", "sections": ["press"]},
+    {"q": "What does Elmstead Institute value in recruiting?", "expect": "elmstead-institute", "sections": ["recruiting"]},
+    {"q": "Which positions does Elmstead Institute need?", "expect": "elmstead-institute", "sections": ["positions"]}
+  ]
+}

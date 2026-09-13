@@ -1,0 +1,30 @@
+{
+  "note": "Questions the system must refuse. Two kinds: off topic entirely, and about a named team this library does not hold. The second kind is the dangerous one, because the question is relevant to the domain and retrieval will happily return a nearby program.",
+  "probes": [
+    {
+      "q": "What formation does Real Madrid women's play?",
+      "kind": "uncovered entity",
+      "why": "The division hint boosts every women's chunk in the index. With the gate reading the boosted score, this returns a profile of a program the user never asked about."
+    },
+    {
+      "q": "Who is the head coach of the Kingsbury Rovers reserves?",
+      "kind": "uncovered entity",
+      "why": "Two capitalised words that match no source in the index."
+    },
+    {
+      "q": "Tell me about Manchester United's academy",
+      "kind": "uncovered entity",
+      "why": "Same class as above, phrased without a question word."
+    },
+    {
+      "q": "What is the capital of France?",
+      "kind": "off topic",
+      "why": "No vocabulary overlap with the corpus, so the raw gate alone should refuse it."
+    },
+    {
+      "q": "How do I build a sourdough starter?",
+      "kind": "off topic",
+      "why": "Same. The gate is the only mechanism needed here."
+    }
+  ]
+}
